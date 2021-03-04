@@ -1,0 +1,13 @@
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\bin\Debug\LoginForm.exe.config
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\bin\Debug\LoginForm.exe
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\bin\Debug\LoginForm.pdb
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.csprojAssemblyReference.cache
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.Properties.Resources.resources
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.csproj.GenerateResource.cache
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.csproj.CoreCompileInputs.cache
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.exe
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.pdb
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\bin\Debug\Login.mdf
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\bin\Debug\Login_log.ldf
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.MainForm.resources
+C:\Users\Laketic\Desktop\LoginForm-master\LoginForm\obj\Debug\LoginForm.LoginForm.resources
